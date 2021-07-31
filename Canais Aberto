@@ -53,6 +53,28 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
+<title>TV BRASIL - Tv UFG</title>
+<link>http://wowza.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8</link>
+<thumbnail>https://files.cercomp.ufg.br/weby/up/120/o/tvufg.jpg?1354742886</thumbnail>
+<genre>TV ABERTA DE VARIEDADES</genre>
+<info>TV UFG , SHOWS, MÚSICAS, DIVERSÃO, NOTICIARIO, CULTURA</info>
+<date></date>
+<epg></epg>
+<fanart>https://files.cercomp.ufg.br/weby/up/120/o/tvufg.jpg?1354742886</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV PARANÁ </title>
+<link>http://200.189.113.201/hls/tve.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/dwITxjiFbXc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAo-eHXSqq-3o1YM3-qB2GN7IKQRw</thumbnail>
+<genre>TV ABERTA VARIEDADES</genre>
+<info>TV Paraná Programações diversificadas</info>
+<date></date>
+<epg></epg>
+<fanart>https://i.ytimg.com/vi/dwITxjiFbXc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAo-eHXSqq-3o1YM3-qB2GN7IKQRw</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
 <title>CNN INDONÉSIA</title>
 <link>https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png</thumbnail>
