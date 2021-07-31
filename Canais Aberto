@@ -1,15 +1,4 @@
 <item>
-<title>CNN INDONÉSIA</title>
-<link>https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png</thumbnail>
-<genre>TV INTERNACIONAL</genre>
-<info>Canal de Noticias internacionais: Indonésia</info>
-<date></date>
-<epg></epg>
-<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png</fanart>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
 <title>SBT - PERNAMBUCO</title>
 <link>http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8</link>
 <thumbnail>https://i.pinimg.com/originals/b3/99/a7/b399a73cdf016200377fb5fc9643282c.jpg</thumbnail>
@@ -21,89 +10,66 @@
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>TV</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8 </link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<date></date>
-<epg></epg>
-<fanart></fanart>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>TV</title>
-<link>http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<date></date>
-<epg></epg>
-<fanart></fanart>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>TV</title>
+<title>TV JORNAL - RECIFE -PERNAMBUCO</title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</thumbnail>
+<genre>TV DE VARIEDADES</genre>
+<info>TV JORNAL, emissora Brasileira de variedades, shows, musicas regionais, jornalismo</info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_TV_Jornal.jpg</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><item>
-<title>TV</title>
+<title>TV BRASIL - TVE</title>
 <link>http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>TV Brasil TVE informações, noticias, programas infantis, adultos</info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>TV</title>
-<link>http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
-<date></date>
-<epg></epg>
-<fanart></fanart>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>TV</title>
+<title>RCB - REDE BRASIL DE COMUNICAÇÕES</title>
 <link>http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/e7/RBC1.LOGO.jpg</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>TV ABERTA RBC</info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/e/e7/RBC1.LOGO.jpg</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>TV</title>
+<title>TV CULTURA PARA</title>
 <link>http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>TV CULTURA DO PARA </info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>TV</title>
+<title>TV CULTURA</title>
 <link>http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>Tv aberta brasileira TV Cultura</info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</fanart>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>CNN INDONÉSIA</title>
+<link>https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png</thumbnail>
+<genre>TV INTERNACIONAL</genre>
+<info>Canal de Noticias internacionais: Indonésia</info>
+<date></date>
+<epg></epg>
+<fanart>https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png</fanart>
+</item>
