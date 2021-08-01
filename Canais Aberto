@@ -1,14 +1,135 @@
 <item>
-<title>[COLOR orange][B]EM TESTE DE CANAL[/B][/COLOR]</title>
-<link>https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZSrD2c3U-fFJt43bQmPjpiA)/dm/3/x7txn7q/s/live-4.m3u8</link>
-<thumbnail></thumbnail>
-<genre></genre>
-<info></info>
+<title>TV RECORD</title>
+<link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8</link>
+<thumbnail>http://paponacolina.com.br/wp-content/uploads/2021/02/Record.jpg</thumbanail>
+<genre>TV VARIEDADES</genre>
+<info>TV aberta de veriedades gerais</info>
 <date></date>
 <epg></epg>
-<fanart></fanart>
+<fanart>http://paponacolina.com.br/wp-content/uploads/2021/02/Record.jpg</fanart>
 </item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV GAZETA - MA</title>
+<link>http://stmv8.conectastm.com/wagner1168/wagner1168/chunklist_w1204644247.m3u8</link>
+<thumbnail>https://www.tvgazeta.com.br/wp-content/uploads/2017/02/tvgazeta-share-470x246.jpg</thumbnail>
+<genre>TV ABERTA</genre>
+<info>TV aberta com variedades gerais</info>
+<date></date>
+<epg></epg>
+<fanart>https://www.tvgazeta.com.br/wp-content/uploads/2017/02/tvgazeta-share-470x246.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV CINEMAX</title>
+<link>https://srv1.painelvideo.com/tvmix/tvmix/chunklist_w1287341400.m3u8</link>
+<thumbnail>https://br.web.img3.acsta.net/newsv7/14/12/16/14/56/153493.jpg</thumbnail>
+<genre>TV MIX</genre>
+<info>TV com varios filmes programação diversificadas</info>
+<date></date>
+<epg></epg>
+<fanart>https://br.web.img3.acsta.net/newsv7/14/12/16/14/56/153493.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV CANAL29 SÉRIES ANTIGAS</title>
+<link>https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1853260597.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp</thumbnail>
+<genre>TV DE SÉRIES ANTIGAS</genre>
+<info>Filmes e Séries Antigas</info>
+<date></date>
+<epg></epg>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>BONS TEMPOS TV</title>
+<link>https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w902603702.m3u8</link>
+<thumbnail>https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png</thumbnail>
+<genre>TV INTERNET</genre>
+<info>Exibição de filmes e Séries antigas</info>
+<date></date>
+<epg></epg>
+<fanart>https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV MANCHETE</title>
+<link>https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1811098079.m3u8</link>
+<thumbnail>https://media-manager.starsinsider.com/1920/na_5c2355916c21e.jpg</thumbnail>
+<genre>TV ABERTA</genre>
+<info>TV de variedades</info>
+<date></date>
+<epg></epg>
+<fanart>https://media-manager.starsinsider.com/1920/na_5c2355916c21e.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV CINE</title>
+<link>https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1813012697.m3u8</link>
+<thumbnail>https://www.magazine-hd.com/apps/wp/wp-content/uploads/2020/01/capatvcine.jpg</thumbnail>
+<genre>TV DE FILMES E SÉRIES</genre>
+<info>TV Com Programação variavel</info>
+<date></date>
+<epg></epg>
+<fanart>https://www.magazine-hd.com/apps/wp/wp-content/uploads/2020/01/capatvcine.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV LONDRINA - PR</title>
+<link>https://video01.kshost.com.br:4443/clodoaldo3320/clodoaldo3320/chunklist_w1237587292.m3u8</link>
+<thumbnail>https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-24-22-22-55.png</thumbnail>
+<genre>TV ABERTA</genre>
+<info>INFORMAÇÃO, SHOWS REGIONAIS, VARIEDADES</info>
+<date></date>
+<epg></epg>
+<fanart>https://2.bp.blogspot.com/-YgQ62zTBdP0/XvP-H_IcUtI/AAAAAAAADDI/wzOs9vOrgZsJHsbEePpKoIJnRD7PutXrACLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-06-24-22-22-55.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV CHANNEL NETWORK</title>
+<link>https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w742064979.m3u8</link>
+<thumbnail>https://i.ytimg.com/vi/LWvsEoZscgs/maxresdefault.jpg</thumbnail>
+<genre>TV DE VARIEDADES</genre>
+<info>MÚSICAS, SHOWS, VAIREDADES</info>
+<date></date>
+<epg></epg>
+<fanart>https://i.ytimg.com/vi/LWvsEoZscgs/maxresdefault.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV RETRÔ CARTOON</title>
+<link>https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2167572.m3u8</link>
+<thumbnail>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp</thumbnail>
+<genre>TV DE DESENHOS ANTIGOS</genre>
+<info>TV DE DESENHOS ANIMADOS E SÉRIES</info>
+<date></date>
+<epg></epg>
+<fanart>https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7b0be1e3ddbc37ae133fd52e75a94fe0.webp</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>RETRÔ MUSIC TELEVISION</title>
+<link>http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png</thumbnail>
+<genre>TV MUSICAS</genre>
+<info>TV DE MUSICAS RETRÔ</info>
+<date></date>
+<epg></epg>
+<fanart>https://3.bp.blogspot.com/-wFIv00CIEbY/XRZGMoKpOHI/AAAAAAAABOg/AhH211mYOAwOSJJmk4FQUm6ufkjkQurAACLcBGAs/w1200-h630-p-k-no-nu/Screenshot_2019-06-28-13-22-49.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV - WHAM CLASSIC </title>
+<link>https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w855561344.m3u8</link>
+<thumbnail>https://pbs.twimg.com/media/EyJez09WQAAb0mg.jpg</thumbnail>
+<genre>TV DE FILMES CLASSICOS</genre>
+<info>TV OPERANDO COM FILMES CLASSICOS</info>
+<date></date>
+<epg></epg>
+<fanart>https://pbs.twimg.com/media/EyJez09WQAAb0mg.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>TV JORNAL - RECIFE -PERNAMBUCO</title>
 <link>http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8</link>
