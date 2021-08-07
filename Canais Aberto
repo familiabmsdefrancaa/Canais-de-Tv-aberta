@@ -1,4 +1,67 @@
 <item>
+<title>TV CARIOCA</title>
+<link>https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1011599910.m3u8</link>
+<thumbnail>https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>SHOWS, FILMES, DESENHOS, REPORTAGENS </info>
+<fanart>https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV ARACATI</title>
+<link>https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8</link>
+<thumbnail>https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>SHOWS, FILMES, MÚSICAS, INFANTIS, NOTICIARIOS</info>
+<fanart>https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV XTREME</title>
+<link>https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w359383896.m3u8</link>
+<thumbnail>https://image.winudf.com/v2/image1/Y29tLnh0cmVtZXR2Lnh0cmVtZXR2bF9zY3JlZW5fMl8xNTcyMDM2MzU4XzA2Mg/screen-2.jpg?fakeurl=1&type=.jpg</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>FILMES, REPORTAGENS, COMERCIOS</info>
+<fanart>https://image.winudf.com/v2/image1/Y29tLnh0cmVtZXR2Lnh0cmVtZXR2bF9zY3JlZW5fMl8xNTcyMDM2MzU4XzA2Mg/screen-2.jpg?fakeurl=1&type=.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV MAX</title>
+<link>https://r5---sn-bg0ezn7e.c.2mdn.net/videoplayback/id/0d73d19cf35c987c/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3766414216/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/5D75080B8D693A559AA1662B1CC732C4F9553C53.51178FFB01E4F7396C536EA147D58199E97613CD/key/cms1/cms_redirect/yes/mh/w-/mip/2804:14d:7e23:8c92:6139:48d7:1239:5636/mm/42/mn/sn-bg0ezn7e/ms/onc/mt/1628289637/mv/m/mvi/5/pl/48/file/file.mp4</link>
+<thumbnail>http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>SHOWS, REPORTAGENS, DIA A DIA </info>
+<fanart>http://tvmaxrio.com/wp-content/uploads/2019/06/LOGO_TVMAX_FUNDO-VERMELHO.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV SUMMER </title>
+<link>https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w1042056516.m3u8</link>
+<thumbnail>https://pa-str.srvsite.com/arquivos/revenda/168/rodape-168-20190527174312.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>VARIEDADES EM GERAL</info>
+<fanart>https://pa-str.srvsite.com/arquivos/revenda/168/rodape-168-20190527174312.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TCM - TV A CABO MOSSORÓ</title>
+<link>https://live.tcm10.com.br/tcm10hd/stream.m3u8</link>
+<thumbnail>https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>FILMES, SERIES, REPORTAGENS</info>
+<fanart>https://tcmhd.com.br/files/2020-12/1608743519_logo-tcm-10-hd.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>TV JETSONS</title>
+<link>https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1478468787.m3u8</link>
+<thumbnail>https://observatoriodocinema.uol.com.br/wp-content/uploads/2017/06/Tv-The-Jetsons.jpg</thumbnail>
+<genre>TV VARIEDADES</genre>
+<info>SÉRIES,DESENHOS</info>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2017/06/Tv-The-Jetsons.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
 <title>TV RECORD</title>
 <link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8</link>
 <thumbnail>http://paponacolina.com.br/wp-content/uploads/2021/02/Record.jpg</thumbanail>
