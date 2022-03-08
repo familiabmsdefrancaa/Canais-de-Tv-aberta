@@ -1,4 +1,13 @@
 <item>
+<title>REDE RECORD</title>
+<link>https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png</thumbnail>
+<genre>TV VARIEDADES - TV ABERTA</genre>
+<info>SHOWS, FILMES, DESENHOS, REPORTAGENS </info>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
 <title>TV CARIOCA</title>
 <link>https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1011599910.m3u8</link>
 <thumbnail>https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png</thumbnail>
